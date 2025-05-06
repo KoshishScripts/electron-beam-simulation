@@ -12,9 +12,16 @@ This Python script simulates the trajectory of charged particles (electrons/posi
 - Required Python packages:
   - numpy
   - matplotlib
-  
+
+## Running the code 
+
+1. Install the required packages:
+   
+```bash
 pip install numpy matplotlib
+```
+2. Run the simulation script directly:
+```bash
+python electron_simulation.py
+```
 
-Run the simulation script directly:
-
-python electron_trajectory_simulation.py
